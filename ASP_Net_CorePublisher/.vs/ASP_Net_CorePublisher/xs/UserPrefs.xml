@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{C2D93FD9-C8D6-4959-B77D-7323CF76A66B}|Default">
+  <MonoDevelop.Ide.ItemProperties.ASP__Net__CorePublisher PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="QueuePublisher.cs">
+    <Files>
+      <File FileName="Controllers/EmployeeController.cs" Line="22" Column="41" />
+      <File FileName="Models/Employee.cs" />
+      <File FileName="QueuePublisher.cs" Line="16" Column="14" />
+      <File FileName="Startup.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ASP_Net_CorePublisher" expanded="True">
+            <Node name="ASP_Net_CorePublisher" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="QueuePublisher.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

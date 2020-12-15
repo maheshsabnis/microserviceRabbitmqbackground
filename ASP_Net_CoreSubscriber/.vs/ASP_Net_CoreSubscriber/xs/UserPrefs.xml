@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{0A04A853-AD77-4344-948B-2DF15CDBEBD0}|Default">
+  <MonoDevelop.Ide.ItemProperties.ASP__Net__CoreSubscriber PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BackgroundQueueService.cs">
+    <Files>
+      <File FileName="BackgroundQueueService.cs" Line="38" Column="16" />
+      <File FileName="Startup.cs" />
+      <File FileName="Program.cs" />
+      <File FileName="Models/mydbContext.cs" />
+      <File FileName="appsettings.json" />
+      <File FileName="Controllers/EmployeeAPICotroller.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ASP_Net_CoreSubscriber" expanded="True">
+            <Node name="ASP_Net_CoreSubscriber" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="BackgroundQueueService.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
